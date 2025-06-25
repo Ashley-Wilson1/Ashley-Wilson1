@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ashley Wilson
 
-I'm an aspiring full-stack developer currently studying Computer Science at Leeds Beckett University (graduating 2025). I enjoy building scalable, maintainable web applications and have experience working with modern tools and frameworks across the stack.
+I'm a full-stack developer with a First Class Honours degree in Computer Science from Leeds Beckett University (2025). I enjoy building scalable, maintainable web applications and have hands-on experience with modern tools and frameworks across the stack.
 
-While I've recently worked with technologies like React, Django, PostgreSQL, and Docker, I'm always keen to explore new tools and languages — I value adaptability and enjoy learning technologies that best suit the project at hand. My strengths lie in backend architecture, problem-solving, and building production-style systems that reflect real-world needs.
+Recently, I’ve worked with technologies like React, Django, PostgreSQL, and Docker, but I’m always open to learning what best fits the project. I have a particular interest in backend architecture, problem-solving, and building production-ready systems that reflect real-world use cases.
 
 ---
 
