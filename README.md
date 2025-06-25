@@ -55,7 +55,10 @@ Secure task manager with login, per-user data isolation, and Docker-based deploy
 ### 🎓 Education
 
 **BSc (Hons) Computer Science**, Leeds Beckett University — *2022–2025*  
-First (1st) Class Honours • A-Levels: A* in Maths, Physics, Computer Science
+First (1st) Class Honours
+
+**A-Levels:**  
+A* in Maths, Physics, Computer Science
 
 ---
 
